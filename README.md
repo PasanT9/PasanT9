@@ -1,7 +1,5 @@
-[![An image of @PasanT9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PasanT9)](https://holopin.io/@PasanT9)
-
 <!--<a href="https://github.com/PasanT9/PasanT9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasanT9&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="Rakhitha's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasanT9&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="PasanT9's GitHub Stats" />
 </a>-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PasanT9&theme=tokyonight_duo&exclude_days=Sat,Sun&card_width=1000&fire=fa6607)]()
