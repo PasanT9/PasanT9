@@ -1,13 +1,13 @@
-[![An image of @PasanT9r's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PasanT9r)](https://holopin.io/@PasanT9r)
+[![An image of @PasanT9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PasanT9)](https://holopin.io/@PasanT9)
 
-<!--<a href="https://github.com/PasanT9R/PasanT9R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasanT9R&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="Rakhitha's GitHub Stats" />
+<!--<a href="https://github.com/PasanT9/PasanT9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasanT9&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="Rakhitha's GitHub Stats" />
 </a>-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PasanT9R&theme=tokyonight_duo&exclude_days=Sat,Sun&card_width=1000&fire=fa6607)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PasanT9&theme=tokyonight_duo&exclude_days=Sat,Sun&card_width=1000&fire=fa6607)]()
 
 <!--
-**PasanT9R/PasanT9R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PasanT9/PasanT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
